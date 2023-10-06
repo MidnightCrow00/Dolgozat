@@ -1,0 +1,66 @@
+body {
+	background-image: url("black.png");
+	
+}
+head {
+	font-family: Arial, Verdana, sans-serif;
+	color:beige;
+	font-size: 10pt;
+	margin:0px;
+}
+
+
+.menu {
+	background-color: #333533;
+	border-bottom: 2px solid white;
+	padding:10px;
+	padding-left:0px;
+	
+}
+
+#tarolo {
+	width: 90%;
+	max-width: 900px;
+	padding:10px;
+	margin:auto;
+}
+.nav {
+	background-color: rgb(217,217,216);
+	padding-bottom: 300px;
+}
+.nav1 {
+	background-color: rgb(217,217,216);
+	
+}
+.menu a {
+	margin:0px;
+	color:white;
+	text-decoration:none;
+	border-right: 1px solid white;
+	padding: 10px;
+	background-color: #333533;
+}
+.menu a:hover {
+	background-color:#FF6a00;
+	color: #F5CB5C;
+}
+.kep img{
+	padding-right: 20px;
+	width: 300px;
+	float:right;
+}
+.szoveg {
+	padding-left: 10px;
+}
+.szoveg2 {
+	padding-left: 30px;
+	
+}
+.jog {
+	background-color:#F89C35;
+	text-align:center;
+	padding-top:0px;
+}
+.fejlec img{
+	width:100%;
+}
